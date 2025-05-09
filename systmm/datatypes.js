@@ -1,5 +1,15 @@
-let Try = undefined
+// let Try = undefined
 
-let Boo = Boolean(Try)
+// let Boo = Boolean(Try)
 
-console.log(Boo);
+// console.log(Boo);
+
+// let try = 110
+
+let Try = Symbol(100)
+
+let SecondTry = Symbol(100)
+
+
+ console.log(Try == SecondTry);
+ 
