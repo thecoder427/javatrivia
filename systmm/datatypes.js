@@ -6,10 +6,18 @@
 
 // let try = 110
 
-let Try = Symbol(100)
+// let Try = Symbol(100)
 
-let SecondTry = Symbol(100)
+// let SecondTry = Symbol(100)
 
 
- console.log(Try == SecondTry);
+//  console.log(Try == SecondTry);
+
+
+let A = 100
+
+console.log(++A);
+
+console.log(A)
+
  
